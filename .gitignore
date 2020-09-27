@@ -1,0 +1,9 @@
+*.log
+.idea/
+.metals/
+.bloop/
+target/
+native/
+
+# jenv
+.java-version
